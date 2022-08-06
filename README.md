@@ -1,7 +1,7 @@
 # <Your-Project-Title>
 
 ## Description
-I created a website to serve as my study guide. I followed the introductory course work to build a rudimentary website that included HTML, Css, and JavaScript. This website allowed me to get first hand experience in introductory HTML, Css, JavaScript, and Git. I have learned how to do basic computer coding from this project, I have also learned how each coding language works together and how terminal, VS Code and GitHub work together. This project has not only furthered my understanding of coding, it has furthered my knowledge of how computer programmers work.
+I created a website to serve as my study guide. I followed the introductory course work to build a rudimentary website that included HTML, Css, and JavaScript. This website allowed me to get first hand experience in introductory HTML, Css, JavaScript, and Git. I have learned how to do basic computer coding from this project, I have also learned how each coding language works together and how terminal, VS Code and GitHub work together. This project has not only furthered my understanding of coding, it has furthered my knowledge of how computer programmers work. 
 
 
 ## Installation
